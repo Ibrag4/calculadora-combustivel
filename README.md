@@ -27,7 +27,6 @@ visualização: https://ibrag4.github.io/calculadora-combustivel/
 
 1. Clone o repositório:
 
-```bash
 git clone https://github.com/ibrag4/calculadora-combustivel.git
 
 
@@ -38,14 +37,13 @@ $ cd calculadora_combustivel
 
 3. Instale as dependências:
 
-```bash
 npm install
 
 
 4. Execute a aplicação em modo de desenvolvimento:
 
-```bash
 npm run dev
+
 
 # A aplicação pode ser aberta no servidor local (ex: http://localhost:3000)
 
