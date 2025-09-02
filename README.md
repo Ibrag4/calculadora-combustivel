@@ -1,11 +1,11 @@
-# Calculadora de Combustível (Álcool ou Gasolina)
+<img width="1364" height="607" alt="cep-buscador-img" src="https://github.com/user-attachments/assets/3f66b699-cb80-4676-b24b-de40e1dbae47" /># Calculadora de Combustível (Álcool ou Gasolina)
 
 Uma aplicação feita em **React + TypeScript + Vite** para ajudar o usuário a decidir qual combustível é mais vantajoso: álcool ou gasolina.
 
 visualização: https://ibrag4.github.io/calculadora-combustivel/
 ---
+<img width="1919" height="915" alt="calculadora_combustivel_img" src="https://github.com/user-attachments/assets/ed933c4e-4902-42ad-b829-5a2a1ad2f822" />
 
-![Calculadora](assets/calculadora_combustivel_img.png)
 
 ## 💻 Funcionalidades
 
